@@ -1,0 +1,3 @@
+# Atividade 01 - HTML e CSS
+
+Nesta atividade solicitada pelo professor executei meu primeiro site com três páginas utilizando tudo o que aprendemos em sala de aula. Em cada página utilizei listas e imagens de acordo com cada categoria, no index criei uma página sobre "Lugares para comer" onde tem imagens e listas correspondentes ao conteúdo. Da mesma forma criei a página "Doces" e "Salgados". oi
